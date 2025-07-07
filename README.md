@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kufre! <br/><a href="https://github.com/aheadhub1">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/kufre-udo-715134a3/">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/kufre-udo-715134a3/">Web Development</a></h1>
+<h1>Hi, I'm Kufre! <br/><a href="https://github.com/aheadhub1">Cyber Security Analyst</a>| <a href="https://www.linkedin.com/in/kufre-udo-715134a3/">Ethical Hacker</a> | <a href="https://www.linkedin.com/in/kufre-udo-715134a3/">Web Development</a></h1>
 
 <h2>Cyber Security:</h2>
 
